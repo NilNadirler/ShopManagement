@@ -6,5 +6,6 @@ namespace DataAccess.Concrete.EntityFramework
 {
     public class CommentRepository : EfEntityRepositoryBase<Comment, ShopManagementContext>, ICommentRepository
     {
+        //Merhaba dünya
     }
 }
